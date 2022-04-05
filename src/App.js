@@ -34,29 +34,7 @@ function App() {
     saveToLocalStorage()
   }, [cards])
 
-  // let cards = [
-  //   {
-  //     cardNumber: "1234 4566 4433 2222",
-  //     cardName: "kalle kula",
-  //     cardExpiry: "12/30",
-  //     cardCvv: "123",
-  //     cardMake: "Bitcoin Inc",
-  //   },
-  //   {
-  //   cardNumber: "2222 2222 2222 2222",
-  //     cardName: "erik eriksson",
-  //     cardExpiry: "13/44",
-  //     cardCvv: "125",
-  //     cardMake: "johans bank",
-  //   },
-  //   {
-  //     cardNumber: "5555 5555 5555 5555",
-  //       cardName: "Gunter wonderbar",
-  //       cardExpiry: "15/22",
-  //       cardCvv: "323",
-  //       cardMake: "jaa bank",
-  //     },
-  // ]
+  
 
 
   //lägger nya kort i state som går till Home sen. 
