@@ -318,11 +318,11 @@ text-transform: uppercase;
 /* deleteknappen */
 
 .delete {
-  margin-left: 150px;
+  margin-right: 150px;
   margin-top: 25px;
   
 
-  background-color: rgb(136, 4, 4); /* Green */
+  background-color: rgb(4, 136, 4);
   border: none;
   color: white;
   padding: 15px 32px;
