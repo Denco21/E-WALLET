@@ -78,6 +78,6 @@ function removeCard(card){
 
     </div>
   );
-
+}
 
 export default App;
