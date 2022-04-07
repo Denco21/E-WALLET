@@ -15,7 +15,7 @@ function Card(props) {
     var className = "card";
 
     var cardMakeLogo = Bitcoin;
-    if (card.cardMake !== undefined) {
+    if (Card.cardMake !== undefined) {
       
         className += " " + card.cardMake;
 
